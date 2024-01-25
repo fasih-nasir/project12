@@ -6,10 +6,7 @@ body{
    
 }
 i:hover{
-    /* border: 2px solid red; */
-    /* background-color: #8a8a8a; */
-    /* color: white; */
-    /* border-radius: 50%; */
+   
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 2px;
     border-radius: 5px;
